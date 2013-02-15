@@ -10,3 +10,6 @@
 [submodule "lib/mvc"]
 	path = lib/mvc
 	url = https://github.com/enyojs/mvc.git
+[submodule "lib/webapi"]
+	path = lib/webapi
+	url = git://github.com/soapdog/webapi-enyo-components.git
