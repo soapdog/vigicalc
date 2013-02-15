@@ -1,0 +1,5 @@
+# AAG: .htaccess file to serve manifests with the correct MIME type
+
+AddType application/x-web-app-manifest+json .webapp
+
+AddType text/cache-manifest .appcache
