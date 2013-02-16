@@ -16,3 +16,6 @@
 [submodule "lib/webos-ports-lib"]
 	path = lib/webos-ports-lib
 	url = https://github.com/webOS-ports/webos-ports-lib.git
+[submodule "lib/jaycanuck"]
+	path = lib/jaycanuck
+	url = https://github.com/JayCanuck/enyo-2-components.git
