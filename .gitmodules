@@ -19,3 +19,6 @@
 [submodule "lib/jaycanuck"]
 	path = lib/jaycanuck
 	url = https://github.com/JayCanuck/enyo-2-components.git
+[submodule "lib/g11n"]
+	path = lib/g11n
+	url = https://github.com/enyojs/g11n.git
