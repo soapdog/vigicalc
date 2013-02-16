@@ -13,3 +13,6 @@
 [submodule "lib/webapi"]
 	path = lib/webapi
 	url = git://github.com/soapdog/webapi-enyo-components.git
+[submodule "lib/webos-ports-lib"]
+	path = lib/webos-ports-lib
+	url = https://github.com/webOS-ports/webos-ports-lib.git

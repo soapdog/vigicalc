@@ -1,0 +1,15 @@
+{
+  "name": "My Enyo2 App",
+  "description": "My elevator pitch goes here",
+  "launch_path": "/",
+  "icons": {
+    "128": "/assets/img/icon-128.png",
+    "60": "/assets/img/icon-60.png",
+    "30": "/assets/img/icon-30.png"
+  },
+  "developer": {
+    "name": "Your name or organization",
+    "url": "http://your-homepage-here.org"
+  },
+  "default_locale": "en"
+}
