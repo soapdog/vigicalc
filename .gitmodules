@@ -19,3 +19,4 @@
 [submodule "lib/jaycanuck"]
 	path = lib/jaycanuck
 	url = https://github.com/JayCanuck/enyo-2-components
+	
